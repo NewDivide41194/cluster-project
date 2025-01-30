@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Cluster-A",
+        "version": "0.0.1",
+        "id": "1234"
+    },
+    {
+        "name": "Cluster-B",
+        "version": "0.0.2",
+        "id": "1233"
+    }
+]
